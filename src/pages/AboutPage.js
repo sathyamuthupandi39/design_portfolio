@@ -42,7 +42,7 @@ function AboutPage(props) {
         <p>
           My pursuit of design has opened up a lot of avenues for me, from
           working as a part of the design team to becoming the head of the
-          design department for the IEEE Student Chapter of our college and for
+          design department for IEEE Student Chapter of our college and for
           our college's flagship techno-cultural fest. You can check out my
           creatives{" "}
           <a
