@@ -18,7 +18,7 @@ function AboutPage(props) {
         {/* </div> */}
 
         <p>
-          Hi, I’m Sadhana, a passionate graphic and UX/UI designer from
+          Hi, I’m Sathya, a passionate graphic and UX/UI designer from
           Bengaluru, India, currently pursuing my bachelor's degree in Computer
           Science and Engineering from PES University (South Campus).
         </p>
